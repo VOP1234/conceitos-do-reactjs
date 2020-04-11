@@ -5,6 +5,9 @@ Conceitos do React JS
 <h4 align="center">
   🚀 Testing some React JS functionality
 </h4>
+
+![GitHub top language](https://img.shields.io/github/languages/top/vop1234/conceitos-do-reactjs)  ![GitHub language count](https://img.shields.io/github/languages/count/vop1234/conceitos-do-reactjs)
+
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
